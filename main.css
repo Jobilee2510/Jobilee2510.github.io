@@ -63,6 +63,7 @@ hr {
     background-repeat: no-repeat;
     background-size: cover;
     filter: blur(3px);
+    position: fixed;
     /* margin-left: -50px;
     margin-top: -50px; */
     z-index: -1;
